@@ -10,6 +10,6 @@ app.use(cors())
 app.use(morgan('dev'))
 app.use(express.json())
 app.use(collegeRoutes)
-app.listen(https://colegio-enyoi-back.onrender.com)
+app.listen(https://api.render.com/deploy/srv-cedog94gqg43c91q1mag?key=4ZrCshSfAng)
 
 console.log('server en el RAIL')
