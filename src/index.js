@@ -11,6 +11,6 @@ app.use(morgan('dev'))
 app.use(express.json())
 app.use(collegeRoutes)
 
-app.listen(process.env.SERVER_URL)
+app.listen(4000)
 
 console.log('server en el RAIL')
